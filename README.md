@@ -28,19 +28,19 @@
 <p>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Sass/Scss-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 </p>
 
 #### Tool
 <p>
-  <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/> 
 </p>
 <p>
   <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intelli_J-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white"/>
 </p>
 <p>
