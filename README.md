@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Koa-33333D?style=flat-square&logo=koa&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt=""/> 
 </p>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
