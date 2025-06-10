@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&text=Heo%20JeongUn&height=200&animation=fadeIn&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&text=Heo%20JeongUn&height=200&animation=fadeIn&fontColor=ffffff)
 
 :school: &nbsp;중부대학교 고양캠퍼스 정보통신학과(4년제) 전공 / IoT융합전공 융합전공
 
