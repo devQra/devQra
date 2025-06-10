@@ -23,7 +23,7 @@
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-F37440?style=flat-square&logo=databricks&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MyBatis-F37440?style=flat-square&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white"/> 
 </p>
 <p>
