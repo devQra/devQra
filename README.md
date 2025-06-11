@@ -2,7 +2,7 @@
 
 :school: &nbsp;중부대학교 고양캠퍼스 정보통신학과(4년제) 전공 / IoT융합전공 융합전공
 
-:paperclip: &nbsp;문제를 도약으로, 성장하기 위해 항상 노력하고 있는 주니어 개발자 입니다.
+:paperclip: &nbsp;도전을 망설이지 않는 주니어 백엔드 개발자입니다.
 
 ### 💪 Skills
 #### Languages & Framework
